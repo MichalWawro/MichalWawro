@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello there my name is Michał and welcome to my profile 👋
+
+About me:
+
+![css](https://github.com/MichalWawro/MichalWawro/assets/123944019/a542924d-a942-41b9-9d58-cdf53a649fdd)
 
 <!--
 **MichalWawro/MichalWawro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
