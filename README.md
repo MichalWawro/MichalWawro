@@ -35,13 +35,13 @@
 ![css](https://github.com/MichalWawro/MichalWawro/assets/123944019/605a5f63-ebca-4724-b10b-0959a5634d39)
 ![git](https://github.com/MichalWawro/MichalWawro/assets/123944019/74701c7f-4e65-4bd8-9cbf-de39ddbbb343)
 
-**Other:**
 
+<!--
+
+**Other:**
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=MichalWawro)](https://git.io/streak-stats)
 
-
-<!--
 **MichalWawro/MichalWawro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
